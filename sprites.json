@@ -1,0 +1,13 @@
+{
+    "cat": {
+        "name": "Kitty",
+        "sprites": {
+            "following": "sprites/cat_following.png",
+            "idle": "sprites/cat_idle.png",
+            "mousedown": "sprites/cat_clicked.png"
+        },
+        "behaviour": "following",
+        "speed": "normal",
+        "relative_position": "bottom"
+    }
+}
